@@ -1,12 +1,13 @@
 {
   "devDependencies": {
     "autoprefixer": "^9.4.3",
+    "cssnano": "^4.1.8",
     "node-sass": "^4.11.0",
     "parcel-bundler": "^1.11.0",
     "postcss-modules": "^1.4.1",
     "pug": "^2.0.3"
   },
   "scripts": {
-    "start": "parcel ./src/index.pug"
+    "start": "parcel ./src/index.pug -d docs"
   }
 }
