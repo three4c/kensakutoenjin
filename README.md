@@ -1,3 +1,4 @@
 # Parcel Test
 * Pracelを使うためにYahoo! Japanのキャラクター紹介の部分のコーディングをした。
-* [https://kensakutoenjin.yahoo.co.jp/](https://kensakutoenjin.yahoo.co.jp/)
+* 参考サイト : [https://kensakutoenjin.yahoo.co.jp/](https://kensakutoenjin.yahoo.co.jp/)
+* Github Pages :  [https://three4c.github.io/yahoo-task/](https://three4c.github.io/yahoo-task/)
