@@ -8,6 +8,7 @@
     "pug": "^2.0.3"
   },
   "scripts": {
-    "start": "parcel ./src/index.pug"
+    "start": "parcel ./src/index.pug",
+    "build": "parcel build -d docs ./src/index.pug --public-url ./"
   }
 }
